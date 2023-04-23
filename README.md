@@ -1,1 +1,1 @@
-# Social-Media-Backend
+# SocialMedia-Backend
